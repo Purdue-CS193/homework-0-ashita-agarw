@@ -11,21 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Ashita Agarwal
-## Freshman Major
-### Purdue University
+# Ashita Agarwal's First CS193 Homework
 
-#Classes
-- CS 180
-- CS 191
-- CS 193
-- MA 261
-
-#MAJORS
-1. Computer Science
-2. Data Sciecne 
-3. Engineering
-4. Pharmacy
+- It is an opportunity to learn about important computer sceince tools.
+- It seems like an interesting and fun class.
+- It is student led.
 
 **Bold** and _Italic_ and `Code` text
 
